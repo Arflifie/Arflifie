@@ -12,5 +12,5 @@
 
 
 
-![foto](img/versi-gif2.gif)
+<img src="img/versi-gif2.gif" alt="gif" height="250" style="text-align: center;">
 
