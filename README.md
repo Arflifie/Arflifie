@@ -35,7 +35,11 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 <img src="https://raw.githubusercontent.com/Arflifie/Arflifie/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
