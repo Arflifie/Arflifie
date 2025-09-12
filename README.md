@@ -19,3 +19,6 @@
 ![https://linkedin.com/arfunaliyafie](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://instagram.com/ar.yaf_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://tiktok.com/arnyaf_](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+
+##### My github stats
+[![Arflifie's GitHub stats](https://github-readme-stats.vercel.app/api?username=arflifie&show_icons=true&theme=cobalt)](https://github.com/Arflifie/github-readme-stats) 
