@@ -26,8 +26,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Arflifie&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Arflifie&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph-dark.svg">
@@ -36,6 +37,7 @@
 </picture>
 
 ###
+ 
 
 <img src="https://raw.githubusercontent.com/Arflifie/Arflifie/output/snake.svg" alt="Snake animation" />
 
