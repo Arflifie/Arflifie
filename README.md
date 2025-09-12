@@ -6,7 +6,11 @@
 -
 -->
 # 💫 About Me:
-## Hello I'm Arfun Ali Yafie 👋
+I am a student majoring in Information Systems. My interest in technology motivated me to choose this major. I want to better understand how technology is designed, created, and implemented in an industry.
+
+As an Information Systems student, I am interested in how such complex technological systems are designed and created, as well as what procedures are applied in the industry. Does that mean industries that have implemented high technology are guaranteed to succeed? Not necessarily, because a successful system is not only determined by the application of technology, but also by management, which contributes to ensuring that the system runs as planned.
+
+That's why I have developed my skills in the world of technology, ranging from UI/UX design, programming languages such as PHP, JavaScript, and several frameworks. In addition, I am also interested in video editing.
 
 
 ### 🌐 Socials:
