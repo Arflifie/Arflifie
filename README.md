@@ -36,11 +36,20 @@ That's why I have developed my skills in the world of technology, ranging from U
 
 [![](https://visitcount.itsvg.in/api?id=Arflifie&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
 <h2 align="left">play game with me</h2>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Arflifie/Arflifie/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
