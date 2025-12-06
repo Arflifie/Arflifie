@@ -39,13 +39,12 @@ I am an IS student passionate about combining tech implementation with effective
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arflifie&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
 ### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Arflifie&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Arflifie&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -53,7 +52,7 @@ I am an IS student passionate about combining tech implementation with effective
 
 Your Readme is Done 🎉🎉🎉
 Star This Project
-Fork on Github
+Fork on Github -->
 
 <h2 align="left">play game with me</h2>
 
