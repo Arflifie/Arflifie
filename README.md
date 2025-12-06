@@ -1,4 +1,4 @@
-## Hello I'm Arfun Ali Yafie 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Helo+Im+Arfun+Ali+Yafie)](https://git.io/typing-svg) 👋
 ![panel](img/panel.png)
 <!--
 **Arflifie/Arflifie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
