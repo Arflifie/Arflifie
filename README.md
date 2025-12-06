@@ -23,7 +23,7 @@ I am an IS student passionate about combining tech implementation with effective
 ![](https://nirzak-streak-stats.vercel.app/?user=Arflifie&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arflifie&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arflifie&show_icons=true)
+![Arflifie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arflifie&show_icons=true)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arflifie&theme=radical&no-frame=false&no-bg=true&margin-w=4)
