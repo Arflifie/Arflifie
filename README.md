@@ -29,10 +29,9 @@ I am an IS student passionate about combining tech implementation with effective
 
 ### 📊 GitHub Stats:
 
-<a href="https://github.com/Arflifie">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arflifie&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arflifie&layout=compact&theme=dracula&custom_title=My%20Programming%20Languages" />
+</div>
 ![](https://github-readme-stats.vercel.app/api?username=Arflifie&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arflifie&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arflifie&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
