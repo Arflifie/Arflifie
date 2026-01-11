@@ -82,10 +82,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arflifie&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<!-- <h3 align="center">🏆 GitHub Trophies</h3>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Arflifie&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+</div> -->
 
 <h3 align="center">👾 Play Game with Me</h3>
 
