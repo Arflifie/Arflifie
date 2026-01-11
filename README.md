@@ -90,11 +90,11 @@
 <h3 align="center">👾 Play Game with Me</h3>
 
 <div align="center">
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph.svg">
-  </picture>
+  </picture> -->
   <picture>
     <img src="https://raw.githubusercontent.com/Arflifie/Arflifie/output/snake.svg" alt="Snake animation" />
   </picture>
