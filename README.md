@@ -68,8 +68,6 @@ I am an **Information Systems student** passionate about combining technology im
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Arflifie&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
 <br/>
 
 <div align="center">
