@@ -40,11 +40,19 @@ I am an **Information Systems student** passionate about combining technology im
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-<br/><br/>
+</div>
 
-  <h3>💻 Tech Stack & Tools</h3>
+---
+
+### 💻 Tech Stack & Tools
+
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,flutter,laravel,nextjs,mysql,pr,canva,figma,git,github&perline=7" />
+    <img src="https://skillicons.dev/icons?i=figma,canva,pr,html,css,js,bootstrap,tailwind,react" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,flutter,php,laravel,supabase,mysql,git,github" />
   </a>
 
 <br/><br/>
@@ -55,23 +63,9 @@ I am an **Information Systems student** passionate about combining technology im
 
 ---
 
-### 📊 GitHub Statistics
+### 🐍 Play with Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arflifie&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arflifie&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Arflifie&theme=cobalt&hide_border=true" alt="streak stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arflifie&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-<br/>
-
-<div align="center">
-  <h3>🐍 Play with Me</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph.svg">
@@ -83,4 +77,10 @@ I am an **Information Systems student** passionate about combining technology im
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arflifie&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&theme=cobalt" />
 </div>
