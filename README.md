@@ -48,7 +48,7 @@ I am an **Information Systems student** passionate about combining technology im
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,canva,pr,html,css,js,bootstrap,tailwind,react" />
+    <img src="https://skillicons.dev/icons?i=figma,pr,html,css,js,bootstrap,tailwind,react" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
@@ -63,17 +63,15 @@ I am an **Information Systems student** passionate about combining technology im
 
 ---
 
-### 🐍 Play with Me
-
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph.svg">
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph.svg">
   </picture>
-</div>
+</div> -->
 
-<br/>
+<!-- <br/>  -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arflifie&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
