@@ -57,13 +57,28 @@ I am an **Information Systems student** passionate about combining technology im
 
 <br/><br/>
 
-  <img src="img/child.gif" alt="Coding GIF" width="400" />
+  <img src="img/gipsy-avenger.gif " alt="Coding GIF" width="400" />
 
 </div>
 
 ---
 
-<!-- <div align="center">
+<!-- ### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arflifie&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arflifie&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
+  <br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Arflifie&theme=cobalt&hide_border=true" alt="streak stats" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Arflifie&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div> -->
+
+---
+
+<!-- ### 🐍 Play with Me
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph.svg">
@@ -71,7 +86,7 @@ I am an **Information Systems student** passionate about combining technology im
   </picture>
 </div> -->
 
-<!-- <br/>  -->
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arflifie&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
