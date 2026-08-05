@@ -1,9 +1,9 @@
 <div align="center">
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="Header Banner" />
   
   <br/>
 
- <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=Hello+I'm+Arfun+Ali+Yafie;IS+Student+%26+Tech+Enthusiast;UI%2FUX+%7C+Video+Editing+%7C+Code" alt="Typing SVG" />
   </a>
 
@@ -14,7 +14,6 @@
 <br/><br/>
 
   <img src="img/panel.png" alt="Header Panel" width="100%" />
-
 </div>
 
 ---
@@ -26,7 +25,6 @@ I am an **Information Systems student** passionate about combining technology im
 <br/>
 
 <div align="center">
-
   <a href="https://instagram.com/ar.yaf_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -39,7 +37,6 @@ I am an **Information Systems student** passionate about combining technology im
   <a href="mailto:arfn.yf@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
 </div>
 
 ---
@@ -48,35 +45,34 @@ I am an **Information Systems student** passionate about combining technology im
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,pr,html,css,js,bootstrap,tailwind,react" />
+    <img src="https://skillicons.dev/icons?i=figma,pr,html,css,js,bootstrap,tailwind,react" alt="Tech Stack 1" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,flutter,php,laravel,supabase,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=nextjs,flutter,php,laravel,supabase,mysql,git,github" alt="Tech Stack 2" />
   </a>
 
 <br/><br/>
 
-  <img src="img/gipsy-avenger.gif " alt="Coding GIF" width="400" />
-
+  <img src="img/gipsy-danger.gif" alt="Coding GIF" width="400" />
 </div>
 
 ---
 
-<!-- ### 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arflifie&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arflifie&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
-  <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Arflifie&theme=cobalt&hide_border=true" alt="streak stats" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Arflifie&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div> -->
+  <!-- GitHub Stats & Top Languages (Menggunakan Mirror + Cache agar selalu muncul) -->
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=Arflifie&theme=cobalt&hide_border=true&show_icons=true" height="175" alt="stats graph" /> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arflifie&theme=cobalt&hide_border=true&layout=compact" height="175" alt="languages graph" />
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arflifie&radius=16&theme=react-dark&area=true&order=5&hide_border=true" width="100%" alt="activity graph" />
+</div>
 
 ---
 
-<!-- ### 🐍 Play with Me
+### 🐍 Play with Me
 
 <div align="center">
   <picture>
@@ -84,16 +80,10 @@ I am an **Information Systems student** passionate about combining technology im
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph.svg">
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Arflifie/Arflifie/output/pacman-contribution-graph.svg">
   </picture>
-</div> -->
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arflifie&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&theme=cobalt" />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&theme=cobalt" alt="Footer Banner" />
 </div>
