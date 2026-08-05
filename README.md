@@ -63,8 +63,11 @@ I am an **Information Systems student** passionate about combining technology im
 
 <div align="center">
   <!-- GitHub Stats & Top Languages (Menggunakan Mirror + Cache agar selalu muncul) -->
-  <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=Arflifie&theme=cobalt&hide_border=true&show_icons=true" height="175" alt="stats graph" /> -->
+ <div style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Arflifie&theme=cobalt&hide_border=true&show_icons=true" height="175" alt="stats graph" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arflifie&theme=cobalt&hide_border=true&layout=compact" height="175" alt="languages graph" />
+</div>
+  
   
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arflifie&radius=16&theme=react-dark&area=true&order=5&hide_border=true" width="100%" alt="activity graph" />
