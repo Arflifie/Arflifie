@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-  <img src="img/panel.png" alt="Header Panel" width="100%" />
+ 
 </div>
 
 ---
